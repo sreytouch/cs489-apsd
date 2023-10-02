@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LabSolutions/Lab1a/ProductMgmtApp/ProductMgmtApp.iml" filepath="$PROJECT_DIR$/LabSolutions/Lab1a/ProductMgmtApp/ProductMgmtApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs489-apsd.iml" filepath="$PROJECT_DIR$/cs489-apsd.iml" />
+    </modules>
+  </component>
+</project>
