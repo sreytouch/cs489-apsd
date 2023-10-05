@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/LabSolutions/Lab1b/maven/EmployeePensionPlansMgmtCLIApp/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
@@ -9,10 +12,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="EmployeePensionPlan" />
         <module name="EmployeesPensionPlan" />
+        <module name="EmployeesPenionPlan1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="EmployeePensionPlan" target="20" />
+      <module name="EmployeePensionPlansMgmtCLIApp" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
