@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90bbfdeb-262b-42eb-9c13-554f9c0831a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/AdsSurgeryDentalCliApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/model/Appointment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/model/Dentist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/model/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/model/Surgery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/repository/DentistRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/repository/SurgeryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/cs489/lab6/adssurgerydentalcli/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/miu/cs489/lab6/adssurgerydentalcli/AdsSurgeryDentalCliApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="90bbfdeb-262b-42eb-9c13-554f9c0831a1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,14 +19,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2WpAmvMPbsuuIRWFInkHgtJkSNd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -65,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,7 +81,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697419309407</updated>
-      <workItem from="1697419310370" duration="1404000" />
+      <workItem from="1697419310370" duration="2164000" />
+      <workItem from="1697509326210" duration="2489000" />
     </task>
     <servers />
   </component>
