@@ -1,5 +1,4 @@
 # Task
-![img.png](img.png)
 
 # Framework: SpringBoot
 
